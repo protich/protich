@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**protich/protich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Founder and Chief Executive Officer of Enhancesoft, a software company based in Alexandria, Louisiana (now fully remote). I founded Enhancesoft with a mission of creating simple yet elegant tools to get customer support out of a shared email inbox and off post-it notes.
 
 - 🔭 I’m currently working on ... osTicket, SupportSystem 
@@ -13,4 +10,3 @@ I'm Founder and Chief Executive Officer of Enhancesoft, a software company based
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I was born and raised in rural Kenya and grew up in a small village with no electricity or running water! Didn't  use a computer until college.
--->
