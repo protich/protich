@@ -7,4 +7,3 @@ I am Founder and Chief Executive Officer at Enhancesoft, a software company base
 ⚡ Fun fact: I was born and raised in rural Kenya and grew up in a small village with no electricity or running water! Didn't use a computer until college.
 
 📫 How to reach me: peter@rotich.com  
-
